@@ -1,0 +1,1 @@
+jdbc:mysql://db.cs.wwu.edu/matsonn2 matsonn2_writer DSG8nAxK
